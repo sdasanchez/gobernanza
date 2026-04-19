@@ -11,6 +11,7 @@ Este demo está pensado para:
 Workshops
 Presentaciones ejecutivas
 Exploración inicial de estrategias de gobernanza de datos
+
 ⚠️ Importante – Uso de datos
 
 Este es un demo estático:
