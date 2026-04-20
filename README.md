@@ -26,7 +26,7 @@ Este es un demo estático:
 
 Toda la interacción ocurre únicamente en el navegador del usuario.
 
-🔐 Política de Privacidad (versión simple)
+🔐 Política de Privacidad 
 
 Este demo respeta principios básicos de privacidad:
 
