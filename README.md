@@ -32,6 +32,8 @@ Muchas organizaciones:
   
 * Alinear equipos de negocio y tecnología
 
+---
+
 ## 📊 Capacidades del dashboard
 
 * 📈 Evaluación de madurez por dominios DAMA
@@ -48,11 +50,13 @@ Muchas organizaciones:
 
 Este demo está pensado para:
 
-Workshops
+* Workshops
 
-Presentaciones ejecutivas
+* Presentaciones ejecutivas
 
-Exploración inicial de estrategias de gobernanza de datos
+* Exploración inicial de estrategias de gobernanza de datos
+
+---
 
 ⚠️ Importante – Uso de datos
 
@@ -64,32 +68,32 @@ Este es un demo estático:
 
 ❌ No se envía información a ningún servidor
 
-
+---
 Toda la interacción ocurre únicamente en el navegador del usuario.
 
 🔐 Política de Privacidad 
 
-Este demo respeta principios básicos de privacidad:
+* Este demo respeta principios básicos de privacidad:
 
-No se recopila información personal
+* No se recopila información personal
 
-No se utilizan cookies de seguimiento
+* No se utilizan cookies de seguimiento
 
-No se almacenan inputs del usuario
+* No se almacenan inputs del usuario
 
-No se comparte información con terceros
+* No se comparte información con terceros
 
 Cualquier dato ingresado:
 
-Es temporal
+* Es temporal
 
-Se pierde al recargar la página
+* Se pierde al recargar la página
 
 📌 Disclaimer
 
-Este proyecto tiene fines demostrativos y educativos.
+* Este proyecto tiene fines demostrativos y educativos.
 
-No representa una implementación productiva ni reemplaza herramientas formales de Data Governance.
+* No representa una implementación productiva ni reemplaza herramientas formales de Data Governance.
 
 ## 🤝 ¿Cómo puedo ayudar?
 
