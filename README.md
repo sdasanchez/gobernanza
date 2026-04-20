@@ -11,11 +11,11 @@ Este demo presenta un enfoque práctico para evaluar, priorizar e implementar in
 Muchas organizaciones:
 
 * Tienen iniciativas de datos sin una dirección clara
-* 
+
 * No logran medir su nivel de madurez
-* 
+  
 * Carecen de priorización entre iniciativas
-* 
+  
 * No cuentan con un roadmap ejecutivo claro
 
 ---
@@ -23,27 +23,27 @@ Muchas organizaciones:
 ## 🧠 ¿Qué permite este enfoque?
 
 * Evaluar la **madurez en gobernanza de datos** de forma objetiva
-* 
+  
 * Identificar **brechas críticas**
-* 
+  
 * Priorizar iniciativas según impacto y urgencia
-* 
+  
 * Definir un **roadmap de implementación claro**
-* 
+  
 * Alinear equipos de negocio y tecnología
 
 ## 📊 Capacidades del dashboard
 
 * 📈 Evaluación de madurez por dominios DAMA
-* 
+  
 * 📊 KPIs ejecutivos para toma de decisiones
-* 
+  
 * 🕸️ Visualización radar para diagnóstico rápido
-* 
+  
 * 🎯 Priorización de iniciativas
-* 
+  
 * 🗺️ Roadmap de implementación (timeline)
-* 
+  
 * 📘 Glosario para alineación conceptual
 
 Este demo está pensado para:
