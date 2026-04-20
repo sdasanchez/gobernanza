@@ -44,4 +44,5 @@ Se pierde al recargar la página
 📌 Disclaimer
 
 Este proyecto tiene fines demostrativos y educativos.
+
 No representa una implementación productiva ni reemplaza herramientas formales de Data Governance.
