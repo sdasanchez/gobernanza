@@ -18,8 +18,11 @@ Exploración inicial de estrategias de gobernanza de datos
 Este es un demo estático:
 
 ❌ No se almacenan datos
+
 ❌ No hay backend ni base de datos
+
 ❌ No se envía información a ningún servidor
+
 
 Toda la interacción ocurre únicamente en el navegador del usuario.
 
