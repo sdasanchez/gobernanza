@@ -58,7 +58,7 @@ Este demo está pensado para:
 
 ---
 
-⚠️ Importante – Uso de datos
+##⚠️ Importante – Uso de datos
 
 Este es un demo estático:
 
@@ -68,10 +68,11 @@ Este es un demo estático:
 
 ❌ No se envía información a ningún servidor
 
----
 Toda la interacción ocurre únicamente en el navegador del usuario.
 
-🔐 Política de Privacidad 
+---
+
+## 🔐 Política de Privacidad 
 
 * Este demo respeta principios básicos de privacidad:
 
@@ -89,12 +90,15 @@ Cualquier dato ingresado:
 
 * Se pierde al recargar la página
 
-📌 Disclaimer
+---
+
+## 📌 Disclaimer
 
 * Este proyecto tiene fines demostrativos y educativos.
 
 * No representa una implementación productiva ni reemplaza herramientas formales de Data Governance.
 
+---
 ## 🤝 ¿Cómo puedo ayudar?
 
 En SDA Consulting acompañamos a organizaciones en:
