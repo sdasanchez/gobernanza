@@ -38,6 +38,7 @@ No se comparte información con terceros
 Cualquier dato ingresado:
 
 Es temporal
+
 Se pierde al recargar la página
 
 📌 Disclaimer
